@@ -1,0 +1,16 @@
+PODS:
+  - RudderStack (1.0.0)
+
+DEPENDENCIES:
+  - RudderStack (from `.`)
+
+EXTERNAL SOURCES:
+  RudderStack:
+    :path: "."
+
+SPEC CHECKSUMS:
+  RudderStack: 705069efa869eadfe3a5aee0300dd38fa20cfbeb
+
+PODFILE CHECKSUM: bcbe09a42bac202112171bc6ae495c5a75d0b40c
+
+COCOAPODS: 1.11.2
